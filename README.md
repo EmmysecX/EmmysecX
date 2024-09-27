@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 ## Cybersecurity Projects
 
 ## Walkthroughs 
-[TryHackMe SOC Level 1 Walkthrough](https://github.com/EmmysecX/THM-SOC-Level-1)
+[TryHackMe SOC Level 1](https://github.com/EmmysecX/THM-SOC-Level-1)
 
 
