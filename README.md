@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Cybersecurity Projects
 
-## TryHackme SOC level 1
+## Walkthroughs 
 
