@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Cybersecurity Projects
+[HomeLab-ThreatDetection](https://github.com/EmmysecX/HomeLab-ThreatDetection/blob/main/simple-home-lab.md)
 
 ## Walkthroughs 
 [TryHackMe SOC Level 1](https://github.com/EmmysecX/THM-SOC-Level-1)
